@@ -1,5 +1,7 @@
+title: documentación
 domain: MaTthiaSsEr.github.io
 url: https://MaTthiaSsEr.github.io
 baseurl: /githubPage/gh-pages
-
-theme: jekyll-theme-midnight
+theme: minima
+plugins:
+  - jekyll-feed
